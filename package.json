@@ -1,0 +1,19 @@
+{
+  "name": "playwright-framework",
+  "version": "1.0.0",
+  "description": "A base repo to create a playwright testing framework & test suite",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx [add your command here]"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ginocoatesmindera/qae-hiring.git"
+  },
+  "author": "Gino Coates",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ginocoatesmindera/qae-hiring/issues"
+  },
+  "homepage": "https://github.com/ginocoatesmindera/qae-hiring#readme"
+}
